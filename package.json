@@ -1,0 +1,23 @@
+{
+  "name": "http-proxy",
+  "version": "1.0.0",
+  "description": "http proxy",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zuozuo/http-proxy.git"
+  },
+  "keywords": [
+    "http",
+    "proxy"
+  ],
+  "author": "zuoyonghui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuozuo/http-proxy/issues"
+  },
+  "homepage": "https://github.com/zuozuo/http-proxy#readme"
+}
